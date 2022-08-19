@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Homework.Function": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7151",
+      "launchBrowser": false
+    }
+  }
+}
